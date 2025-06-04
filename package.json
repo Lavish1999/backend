@@ -22,7 +22,7 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "crawler": "^1.4.0",
-    "crisp-api": "^7.4.2",
+    "crisp-api": "^8.0.3",
     "crypto": "^1.0.1",
     "dns": "^0.2.2",
     "ejs": "^3.1.8",
