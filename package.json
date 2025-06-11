@@ -40,7 +40,7 @@
     "mongoose": "^8.1.1",
     "mongoosejs-cli": "^1.0.7",
     "morgan": "^1.10.0",
-    "multer": "^1.4.2",
+    "multer": "^2.0.1",
     "mysql2": "^2.1.0",
     "node-fetch": "^2.6.9",
     "nodemailer": "^6.9.1",
@@ -64,7 +64,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "jest": "^29.7.0",
+    "jest": "^30.0.0",
     "nodemon": "^2.0.14",
     "sequelize-cli": "^6.2.0",
     "serverless-plugin-common-excludes": "^4.0.0",
