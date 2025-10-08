@@ -43,7 +43,7 @@
     "multer": "^1.4.2",
     "mysql2": "^2.1.0",
     "node-fetch": "^2.6.9",
-    "nodemailer": "^6.9.1",
+    "nodemailer": "^7.0.7",
     "notion-to-md": "^3.1.1",
     "openai": "^4.46.1",
     "redis": "^4.7.0",
