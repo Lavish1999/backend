@@ -21,7 +21,7 @@
     "cheerio": "^1.0.0-rc.12",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
-    "crawler": "^1.4.0",
+    "crawler": "^2.0.0",
     "crisp-api": "^7.4.2",
     "crypto": "^1.0.1",
     "dns": "^0.2.2",
